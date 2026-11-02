@@ -23,7 +23,6 @@ class linkedlist
 int main()
 {
     int x;
-    cin>>x;
-
+    int y;
     return 0;
 }
